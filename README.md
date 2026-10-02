@@ -18,7 +18,7 @@ My structured study roadmap is dedicated to mastering the following technologies
 
 ### 🛠️ Tools & Environment
 
-<img src="sap.png" width="90" alt="SAP" /> &nbsp; <img src="eclipse.png" width="120" style="background: white; border-radius: 4px; padding: 4px;" alt="Eclipse ADT" />
+<img src="sap.png" width="90" alt="SAP" /> &nbsp; <img src="clipsee.png" width="120" style="background: white; border-radius: 4px; padding: 4px;" alt="Eclipse ADT" />
 
 
 ---
@@ -26,7 +26,7 @@ My structured study roadmap is dedicated to mastering the following technologies
 ### 🌐 Let's Connect!
 
 <a href="https://www.linkedin.com/in/isabela-arruda-7468b515a/?isSelfProfile=true" target="_blank">
-  <img src="linkedin.png" width="120" alt="LinkedIn" />
+  <img src="linkediin.png" width="120" alt="LinkedIn" />
 </a>
 
 ---
