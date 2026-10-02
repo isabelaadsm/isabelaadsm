@@ -30,9 +30,10 @@ My structured study roadmap is dedicated to mastering the following technologies
 ### 🌐 Let's Connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/isabela-arruda-7468b515a/?isSelfProfile=true" target="_blank">
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/isabela-arruda-7468b515a/?isSelfProfile=true)" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
 </p>
+
 
 _"Focused on building a solid foundation in SAP development, writing clean, well-documented code, and applying best practices to deliver reliable business solutions." 💼
