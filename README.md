@@ -19,13 +19,11 @@ My structured study roadmap is dedicated to mastering the following technologies
 ### 🛠️ Tools & Environment
 
 <p align="left">
-  <!-- SAP -->
   <img src="https://shields.io" alt="SAP" />
-  <!-- Eclipse ADT -->
   <img src="https://shields.io" alt="Eclipse ADT" />
-  <!-- Git/abapGit -->
   <img src="https://shields.io" alt="abapGit" />
 </p>
+
 
 ---
 
