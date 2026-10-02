@@ -18,13 +18,13 @@ My structured study roadmap is dedicated to mastering the following technologies
 
 ### 🛠️ Tools & Environment
 
-![SAP](https://shields.io) ![Eclipse ADT](https://shields.io) ![abapGit](https://shields.io)
+![SAP](sap.png) ![Eclipse ADT](eclipse.png) ![abapGit](https://shields.io)
 
 ---
 
 ### 🌐 Let's Connect!
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/isabela-arruda-7468b515a/?isSelfProfile=true)
+[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/isabela-arruda-7468b515a/?isSelfProfile=true)
 
 ---
 
