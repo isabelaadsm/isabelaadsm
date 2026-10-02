@@ -18,22 +18,14 @@ My structured study roadmap is dedicated to mastering the following technologies
 
 ### 🛠️ Tools & Environment
 
-<p align="left">
-  <img src="https://shields.io" alt="SAP" />
-  <img src="https://shields.io" alt="Eclipse ADT" />
-  <img src="https://shields.io" alt="abapGit" />
-</p>
-
+![SAP](https://shields.io) ![Eclipse ADT](https://shields.io) ![abapGit](https://shields.io)
 
 ---
 
 ### 🌐 Let's Connect!
 
-<p align="left">
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/isabela-arruda-7468b515a/?isSelfProfile=true)" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-</p>
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/isabela-arruda-7468b515a/?isSelfProfile=true)
 
+---
 
-_"Focused on building a solid foundation in SAP development, writing clean, well-documented code, and applying best practices to deliver reliable business solutions." 💼
+_"Focused on building a solid foundation in SAP development, writing clean, well-documented code, and applying best practices to deliver reliable business solutions."_ 💼
