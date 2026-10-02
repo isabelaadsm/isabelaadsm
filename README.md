@@ -18,10 +18,13 @@ My structured study roadmap is dedicated to mastering the following technologies
 
 ### 🛠️ Tools & Environment
 
+### 🛠️ Tools & Environment
+
 <p align="left">
-  <img src="sap.png" height="85" alt="SAP" /> &nbsp;&nbsp;
-  <img src="eclipse.png" height="85" alt="Eclipse ADT" />
+  <img src="sap.png" height="32" alt="SAP" /> &nbsp;&nbsp;
+  <img src="https://shields.io" height="32" alt="Eclipse ADT" />
 </p>
+
 ---
 
 ### 🌐 Let's Connect!
