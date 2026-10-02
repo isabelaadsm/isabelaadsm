@@ -32,7 +32,7 @@ My structured study roadmap is dedicated to mastering the following technologies
 ### 🌐 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/isabela-arruda-7468b515a/?isSelfProfile=true" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
 </p>
