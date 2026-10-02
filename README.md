@@ -19,8 +19,8 @@ My structured study roadmap is dedicated to mastering the following technologies
 ### 🛠️ Tools & Environment
 
 <p align="left">
-  <img src="sap.png" height="35" alt="SAP" /> &nbsp;&nbsp;
-  <img src="eclipse.png" height="35" alt="Eclipse ADT" />
+  <img src="sap.png" height="60" alt="SAP" /> &nbsp;&nbsp;
+  <img src="eclipse.png" height="60" alt="Eclipse ADT" />
 </p>
 ---
 
@@ -32,7 +32,7 @@ My structured study roadmap is dedicated to mastering the following technologies
   </a>
   &nbsp;&nbsp;
   <span style="font-size: 16px; vertical-align: middle;">
-    💼 <b>LinkedIn Profile:</b> <a href="https://linkedin.com" target="_blank">://linkedin.com</a>
+     <b>LinkedIn Profile:</b> <a href="https://linkedin.com" target="_blank">://linkedin.com</a>
   </span>
 </p>
 
