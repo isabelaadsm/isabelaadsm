@@ -20,7 +20,7 @@ My structured study roadmap is dedicated to mastering the following technologies
 
 <p align="left">
   <img src="sap.png" alt="SAP" /> &nbsp;
-  <img src="https://shields.io" alt="Eclipse ADT" />
+  <img src="eclipse.png" alt="Eclipse ADT" />
 </p>
 
 ---
