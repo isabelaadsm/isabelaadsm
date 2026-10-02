@@ -18,12 +18,9 @@ My structured study roadmap is dedicated to mastering the following technologies
 
 ### 🛠️ Tools & Environment
 
-### 🛠️ Tools & Environment
-
-<p align="left">
-  <img src="sap.png" height="32" alt="SAP" /> &nbsp;&nbsp;
-  <img src="https://shields.io" height="32" alt="Eclipse ADT" />
-</p>
+| SAP Ecosystem | IDE / Development Tools |
+| :---: | :---: |
+| <img src="sap.png" height="35" alt="SAP" /> | <img src="eclipse.png" height="35" style="background-color: #ffffff; padding: 4px; border-radius: 4px;" alt="Eclipse ADT" /> |
 
 ---
 
@@ -31,12 +28,12 @@ My structured study roadmap is dedicated to mastering the following technologies
 
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="linkedinn.png" height="30" alt="LinkedIn Logo" style="vertical-align: middle;" />
+    <img src="linkedin.png" height="35" alt="LinkedIn Logo" style="vertical-align: middle;" />
   </a>
   &nbsp;&nbsp;
   <span style="font-size: 16px; vertical-align: middle;">
-     <b>Profile:</b> <a href="https://www.linkedin.com/in/isabela-arruda-7468b515a/?isSelfProfile=true" target="_blank">://linkedin.com</a>
+    💼 <b>LinkedIn Profile:</b> <a href="https://linkedin.com" target="_blank">://linkedin.com</a>
   </span>
 </p>
 
-_"Focused on building a solid foundation in SAP development, writing clean, well-documented code, and applying best practices to deliver reliable business solutions."_ 💼
+---
