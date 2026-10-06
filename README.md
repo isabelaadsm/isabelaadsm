@@ -10,7 +10,7 @@ moving from core ABAP programming towards modern enterprise development
 
 ### 🗺️ Learning Roadmap
 
-- [x] **ABAP Core & Syntax:** conditionals, loops, internal tables *(in progress)*
+- [x] **ABAP Core & Syntax:** conditionals, loops, internal tables 
 - [ ] **Object-Oriented ABAP:** classes, interfaces, clean code
 - [ ] **CDS Views:** data modeling on SAP HANA
 - [ ] **RAP:** building transactional applications
