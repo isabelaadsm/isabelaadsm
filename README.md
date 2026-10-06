@@ -1,35 +1,35 @@
 # Hi there, I'm Isabela Arruda! 👋
 
-### 🚀 Junior SAP ABAP Developer | On a Mission to Master S/4HANA
+### 🚀 Aspiring Junior SAP ABAP Developer
 
-Driven by a passion for business technology, I am currently building my career in the **SAP ecosystem**. I am dedicated to continuous learning, focusing on daily practice to evolve from core programming into modern enterprise solutions.
+I'm building my career in the **SAP ecosystem** through daily hands-on practice,
+moving from core ABAP programming towards modern enterprise development
+(ABAP OO, CDS Views and RAP).
 
 ---
 
-### 📈 Current Learning Path (Next 6 Months)
+### 🗺️ Learning Roadmap
 
-My structured study roadmap is dedicated to mastering the following technologies:
-- 💻 **ABAP Core & Syntax:** Procedural logic, internal tables, and standard reports.
-- 🧱 **Object-Oriented ABAP (OO-ABAP):** Transitioning into modern architectures and clean classes.
-- 📊 **Core Data Services (CDS Views):** Database modeling tailored for SAP HANA.
-- 🎨 **SAP Fiori / UI5:** Understanding the modern user experience and frontend fundamentals.
+- [x] **ABAP Core & Syntax:** conditionals, loops, internal tables *(in progress)*
+- [ ] **Object-Oriented ABAP:** classes, interfaces, clean code
+- [ ] **CDS Views:** data modeling on SAP HANA
+- [ ] **RAP:** building transactional applications
+- [ ] **SAP Fiori:** basic awareness of the UI layer
 
 ---
 
 ### 🛠️ Tools & Environment
 
-| SAP Ecosystem | IDE / Development Tools |
-| :---: | :---: |
-| <img src="sap.png" height="35" alt="SAP" /> | <img src="eclipse.png" height="35" style="background-color: #ffffff; padding: 4px; border-radius: 4px;" alt="Eclipse ADT" /> |
+`SAP ABAP` · `SE38` · `Eclipse + ADT` · `abapGit`
 
 ---
 
-### 🌐 Let's Connect!
+### 📂 Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/isabela-arruda-7468b515a/?isSelfProfile=true" target="_blank">
-    <img src="linkedinn.png" height="35" alt="LinkedIn Logo" style="vertical-align: middle;" />
-
-</p>
+👉 [meu-portfolio-abap](https://github.com/isabelaadsm/meu-portfolio-abap): exercises and challenges from my ABAP studies, synced from SAP with abapGit
 
 ---
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Isabela_Arruda-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabela-arruda-7468b515a)
