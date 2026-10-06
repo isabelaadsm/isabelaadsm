@@ -1,16 +1,17 @@
 # Hi there, I'm Isabela Arruda! 👋
 
-### 🚀 Aspiring Junior SAP ABAP Developer
+### 🚀 SAP Techno-Functional | ABAP Developer (Junior)
 
-I'm building my career in the **SAP ecosystem** through daily hands-on practice,
-moving from core ABAP programming towards modern enterprise development
-(ABAP OO, CDS Views and RAP).
+Experience across **SAP CRM CX**, **ITSM** and **ABAP**, working between business
+processes and technical solutions. Currently deepening my development skills with
+daily hands-on practice in ABAP OO, CDS Views and RAP.
 
 ---
 
-### 🗺️ Learning Roadmap
+### 🗺️ Currently Deepening
 
-- [x] **ABAP Core & Syntax:** conditionals, loops, internal tables 
+- [x] **ABAP Core & Syntax:** conditionals, loops
+- [ ] **Internal tables:** work areas, reading and changing data *(next)*
 - [ ] **Object-Oriented ABAP:** classes, interfaces, clean code
 - [ ] **CDS Views:** data modeling on SAP HANA
 - [ ] **RAP:** building transactional applications
@@ -20,7 +21,7 @@ moving from core ABAP programming towards modern enterprise development
 
 ### 🛠️ Tools & Environment
 
-`SAP ABAP` · `SE38` · `Eclipse + ADT` · `abapGit`
+`SAP ABAP` · `SE38` · `Eclipse ADT` · `abapGit`
 
 ---
 
